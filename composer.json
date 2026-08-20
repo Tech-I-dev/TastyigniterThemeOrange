@@ -1,5 +1,5 @@
 {
-    "name": "tastyigniter/ti-theme-orange",
+    "name": "techidev/tastyigniterthemeorange",
     "type": "tastyigniter-package",
     "description": "Free Modern, Responsive and Clean TastyIgniter Theme based on Livewire and Bootstrap.",
     "license": "MIT",
@@ -16,16 +16,16 @@
     "require": {
         "livewire/livewire": "^v3.7",
         "spatie/laravel-google-fonts": "^1.2",
-        "tastyigniter/core": "^v4.0",
-        "tastyigniter/ti-ext-cart": "^v4.0",
-        "tastyigniter/ti-ext-coupons": "^v4.0",
-        "tastyigniter/ti-ext-frontend": "^v4.0",
-        "tastyigniter/ti-ext-local": "^v4.0",
-        "tastyigniter/ti-ext-pages": "^v4.0",
-        "tastyigniter/ti-ext-payregister": "^v4.0",
-        "tastyigniter/ti-ext-reservation": "^v4.0",
-        "tastyigniter/ti-ext-socialite": "^v4.0",
-        "tastyigniter/ti-ext-user": "^v4.0"
+        "techidev/tastyignitercore": "*",
+        "techidev/tastyigniterextcart": "*",
+        "techidev/tastyigniterextcoupons": "*",
+        "techidev/tastyigniterextfrontend": "*",
+        "techidev/tastyigniterextlocal": "*",
+        "techidev/tastyigniterextpages": "*",
+        "techidev/tastyigniterextpayregister": "*",
+        "techidev/tastyigniterextreservation": "*",
+        "techidev/tastyigniterextsocialite": "*",
+        "techidev/tastyigniterextuser": "*"
     },
     "require-dev": {
         "larastan/larastan": "^3.0",
