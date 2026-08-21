@@ -16,16 +16,16 @@
     "require": {
         "livewire/livewire": "^v3.7",
         "spatie/laravel-google-fonts": "^1.2",
-        "techidev/tastyignitercore": "*",
-        "techidev/tastyigniterextcart": "*",
-        "techidev/tastyigniterextcoupons": "*",
-        "techidev/tastyigniterextfrontend": "*",
-        "techidev/tastyigniterextlocal": "*",
-        "techidev/tastyigniterextpages": "*",
-        "techidev/tastyigniterextpayregister": "*",
-        "techidev/tastyigniterextreservation": "*",
-        "techidev/tastyigniterextsocialite": "*",
-        "techidev/tastyigniterextuser": "*"
+        "techidev/tastyignitercore": "dev-main",
+        "techidev/tastyigniterextcart": "dev-main",
+        "techidev/tastyigniterextcoupons": "dev-main",
+        "techidev/tastyigniterextfrontend": "dev-main",
+        "techidev/tastyigniterextlocal": "dev-main",
+        "techidev/tastyigniterextpages": "dev-main",
+        "techidev/tastyigniterextpayregister": "dev-main",
+        "techidev/tastyigniterextreservation": "dev-main",
+        "techidev/tastyigniterextsocialite": "dev-main",
+        "techidev/tastyigniterextuser": "dev-main"
     },
     "require-dev": {
         "larastan/larastan": "^3.0",
